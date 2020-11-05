@@ -12,7 +12,7 @@ Large set of retina images taken using fundus photography under a variety of ima
 + 3 - Severe
 + 4 - Proliferative DR
 
-Our team has used the Dataset: https://www.kaggle.com/c/aptos2019-blindness-detection/data
+Our team has used the Dataset from Kaggle.
 
 The motivations for this project are twofold:
 
