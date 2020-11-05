@@ -22,11 +22,7 @@ The motivations for this project are twofold:
 
 ### Results
 
-Accuracy Test: 66%
-
-Public Score: 0.83
-
-Private Score: 0.66
+Accuracy Test: around 70%
 
 ### Workflow
 
