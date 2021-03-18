@@ -1,5 +1,9 @@
 # SheCodes Vietnam 2020
 
+**NOTE:** *I've coded all over again, just for fun and private. Never performing to the public nor making products.*
+
+*Forgot a thank to a special one from kaggle.*
+
 ### Description :
 Millions of people suffer from diabetic retinopathy, the leading cause of blindness among working aged adults. We hope to detect and prevent this disease among people living in rural areas where medical screening is difficult to conduct.<br>
 We are going to build a machine learning model to speed up disease detection.We have to work with thousands of images collected in rural areas to help identify diabetic retinopathy automatically.
